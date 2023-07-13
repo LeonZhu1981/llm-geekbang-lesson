@@ -1,2 +1,2 @@
 # llm-geekbang-lesson
-geekbang llm lesson, ref: https://u.geekbang.com/subject/llm
+It's my geekbang llm lesson, ref: https://u.geekbang.com/subject/llm
